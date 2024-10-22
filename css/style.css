@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#f1f5f8;
+    font-family: "Open Sans", sans-serif;
+}
+/* start section */
+section{
+    text-align: center;
+    margin-top: 150px;
+    color: #102a42;
+}
+section .container h2{
+    font-size: 80px;
+    font-weight: 700;
+}
+section .container h3{
+    font-size: 90px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+section .container .btn{
+    background-color: transparent;
+    color: #102a42;
+    font-weight: 700;
+    border: 3px solid #102a42;
+    border-radius: 4px;
+    font-size: 25px;
+    padding: 5px 15px;
+    margin: 0px 2px 10px ;
+}
+section .container .btn:hover{
+    background-color: #102a42;
+    color: #fff;
+}
+/* end section */
